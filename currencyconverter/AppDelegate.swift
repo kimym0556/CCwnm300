@@ -3,7 +3,7 @@
 //  currencyconverter
 //
 //  Created by YUMI KIM on 2017. 12. 4..
-//  Copyright © 2017년 YUMI KIM. All rights reserved.
+//  Copyright © 2017년 Yu Mi Kim. All rights reserved.
 //
 
 import UIKit
